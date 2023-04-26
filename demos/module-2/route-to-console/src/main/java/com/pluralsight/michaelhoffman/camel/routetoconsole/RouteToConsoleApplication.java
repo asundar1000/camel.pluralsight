@@ -1,5 +1,5 @@
 package com.pluralsight.michaelhoffman.camel.routetoconsole;
-
+//TEST
 import org.apache.camel.main.Main;
 
 public class RouteToConsoleApplication {
